@@ -5,7 +5,7 @@ var restify = require('restify');
 var builder = require('botbuilder');
  var functions =require('./functions.js');
  
-var price =5000;
+
 // Setup Restify Server
 
 var server = restify.createServer();
